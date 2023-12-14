@@ -10,3 +10,6 @@ Running the notebooks requires
   - pandas
   - ipykernel
 
+## Acknowledgements
+
+This code uses data from the Climate Data Center from the German weather service (DWD).
